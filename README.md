@@ -6,7 +6,8 @@
 ![Author](https://img.shields.io/badge/Author-Robina_Mirbahar-181717?style=for-the-badge&logo=github&logoColor=white)
 
 > **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) ([Google Developer Expert in Cloud & AI](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco) · Google Cloud Champion Innovator · Co-Author of [*AI Engineering*](https://www.amazon.com/dp/B0GWCZWCF4))  
-> **Focus:** Fast Jamstack Documentation & Technical Blog Starter Powered by Hugo, Decap CMS & Automated CI/CD
+> 📚 **Architecture Track:** Jamstack Technical Documentation & Engineering Blog Starter  
+> **Core Stack:** Hugo Static Site Engine, Decap CMS, Webpack Asset Pipeline, and Automated CI/CD Deployment.
 
 ---
 
